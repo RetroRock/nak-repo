@@ -1,4 +1,8 @@
 console.log("Hello world");
 console.log("Hello again");
 console.log("Priwet");
+<<<<<<< HEAD
+Hallo ich habe was geändert
+=======
 Hallo, ich habe auch etwas geandert
+>>>>>>> 46c5318 (Eine weitere Aenderung)
